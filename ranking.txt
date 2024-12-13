@@ -1,0 +1,56 @@
+jj, Vitórias: 1
+jj, Vitórias: 2
+c, Vitórias: 1
+a, Vitórias: 1
+e, Vitórias: 1
+a, Vitórias: 2
+a, Vitórias: 3
+d, Vitórias: 1
+a, Vitórias: 4
+a, Vitórias: 5
+d, Vitórias: 2
+i, Vitórias: 1
+a, Vitórias: 6
+k, Vitórias: 1
+c, Vitórias: 2
+b, Vitórias: 1
+d, Vitórias: 3
+a, Vitórias: 7
+c, Vitórias: 3
+d, Vitórias: 4
+a, Vitórias: 8
+d, Vitórias: 5
+j, Vitórias: 1
+k, Vitórias: 2
+d, Vitórias: 6
+e, Vitórias: 2
+a, Vitórias: 9
+e, Vitórias: 3
+a, Vitórias: 10
+i, Vitórias: 2
+i, Vitórias: 3
+i, Vitórias: 4
+e, Vitórias: 4
+k, Vitórias: 3
+i, Vitórias: 5
+c, Vitórias: 4
+d, Vitórias: 7
+c, Vitórias: 5
+j, Vitórias: 2
+a, Vitórias: 11
+d, Vitórias: 8
+j, Vitórias: 3
+e, Vitórias: 5
+i, Vitórias: 6
+d, Vitórias: 9
+d, Vitórias: 10
+d, Vitórias: 11
+e, Vitórias: 6
+e, Vitórias: 7
+d, Vitórias: 12
+a, Vitórias: 12
+i, Vitórias: 7
+jogador 3, Vitórias: 1
+jogador 4, Vitórias: 1
+jogador 4, Vitórias: 2
+jogador 3, Vitórias: 2
